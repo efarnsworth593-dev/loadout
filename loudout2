@@ -1,0 +1,303 @@
+{
+    "spawnWeight": 1,
+    "name": "DZB_Loadout_1",
+    "characterTypes": [],
+    "attachmentSlotItemSets": [
+        {
+            "slotName": "Hands",
+            "discreteItemSets": [
+                {
+                    "itemType": "CZ75",
+                    "spawnWeight": 1,
+                    "attributes": {
+                        "healthMin": 1.0,
+                        "healthMax": 1.0,
+                        "quantityMin": 1.0,
+                        "quantityMax": 1.0
+                    },
+                    "quickBarSlot": -1,
+                    "simpleChildrenTypes": [
+                        "PistolSuppressor",
+                        "Mag_CZ75_15Rnd"
+                    ],
+                    "simpleChildrenUseDefaultAttributes": false,
+                    "complexChildrenTypes": []
+                }
+            ]
+        },
+        {
+            "slotName": "shoulderR",
+            "discreteItemSets": [
+                {
+                    "itemType": "BarbedBaseballBat",
+                    "spawnWeight": 1,
+                    "attributes": {
+                        "healthMin": 1.0,
+                        "healthMax": 1.0,
+                        "quantityMin": 1.0,
+                        "quantityMax": 1.0
+                    },
+                    "quickBarSlot": -1,
+                    "simpleChildrenTypes": [],
+                    "simpleChildrenUseDefaultAttributes": false,
+                    "complexChildrenTypes": []
+                }
+            ]
+        },
+        {
+            "slotName": "Vest",
+            "discreteItemSets": [
+                {
+                    "itemType": "PlateCarrierVest_Winter",
+                    "spawnWeight": 1,
+                    "attributes": {
+                        "healthMin": 1.0,
+                        "healthMax": 1.0,
+                        "quantityMin": 1.0,
+                        "quantityMax": 1.0
+                    },
+                    "quickBarSlot": -1,
+                    "simpleChildrenTypes": [],
+                    "simpleChildrenUseDefaultAttributes": false,
+                    "complexChildrenTypes": [
+                        {
+                            "itemType": "PlateCarrierPouches_Winter",
+                            "attributes": {
+                                "healthMin": 1.0,
+                                "healthMax": 1.0,
+                                "quantityMin": 1.0,
+                                "quantityMax": 1.0
+                            },
+                            "quickBarSlot": -1
+                        },
+                        {
+                            "itemType": "PlateCarrierHolster_Winter",
+                            "attributes": {
+                                "healthMin": 1.0,
+                                "healthMax": 1.0,
+                                "quantityMin": 1.0,
+                                "quantityMax": 1.0
+                            },
+                            "quickBarSlot": -1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "slotName": "Headgear",
+            "discreteItemSets": [
+                {
+                    "itemType": "BallisticHelmet_Navy",
+                    "spawnWeight": 1,
+                    "attributes": {
+                        "healthMin": 1.0,
+                        "healthMax": 1.0,
+                        "quantityMin": 1.0,
+                        "quantityMax": 1.0
+                    },
+                    "quickBarSlot": -1,
+                    "simpleChildrenTypes": [],
+                    "simpleChildrenUseDefaultAttributes": false,
+                    "complexChildrenTypes": []
+                },
+                {
+                    "itemType": "BallisticHelmet_Winter",
+                    "spawnWeight": 1,
+                    "attributes": {
+                        "healthMin": 1.0,
+                        "healthMax": 1.0,
+                        "quantityMin": 1.0,
+                        "quantityMax": 1.0
+                    },
+                    "quickBarSlot": -1,
+                    "simpleChildrenTypes": [],
+                    "simpleChildrenUseDefaultAttributes": false,
+                    "complexChildrenTypes": []
+                }
+            ]
+        },
+        {
+            "slotName": "Gloves",
+            "discreteItemSets": [
+                {
+                    "itemType": "TacticalGloves_Black",
+                    "spawnWeight": 1,
+                    "attributes": {
+                        "healthMin": 1.0,
+                        "healthMax": 1.0,
+                        "quantityMin": 1.0,
+                        "quantityMax": 1.0
+                    },
+                    "quickBarSlot": -1,
+                    "simpleChildrenTypes": [],
+                    "simpleChildrenUseDefaultAttributes": false,
+                    "complexChildrenTypes": []
+                }
+            ]
+        },
+        {
+            "slotName": "Body",
+            "discreteItemSets": [
+                {
+                    "itemType": "HuntingJacket_Winter",
+                    "spawnWeight": 1,
+                    "attributes": {
+                        "healthMin": 1.0,
+                        "healthMax": 1.0,
+                        "quantityMin": 1.0,
+                        "quantityMax": 1.0
+                    },
+                    "quickBarSlot": -1,
+                    "simpleChildrenTypes": [
+                        "Candycane_Green",
+                        "Candycane_Green"
+                    ],
+                    "simpleChildrenUseDefaultAttributes": false,
+                    "complexChildrenTypes": []
+                }
+            ]
+        },
+        {
+            "slotName": "Legs",
+            "discreteItemSets": [
+                {
+                    "itemType": "HunterPants_Winter",
+                    "spawnWeight": 1,
+                    "attributes": {
+                        "healthMin": 1.0,
+                        "healthMax": 1.0,
+                        "quantityMin": 1.0,
+                        "quantityMax": 1.0
+                    },
+                    "quickBarSlot": -1,
+                    "simpleChildrenTypes": [],
+                    "simpleChildrenUseDefaultAttributes": false,
+                    "complexChildrenTypes": []
+                }
+            ]
+        },
+        {
+            "slotName": "Feet",
+            "discreteItemSets": [
+                {
+                    "itemType": "MilitaryBoots_Bluerock",
+                    "spawnWeight": 1,
+                    "attributes": {
+                        "healthMin": 1.0,
+                        "healthMax": 1.0,
+                        "quantityMin": 1.0,
+                        "quantityMax": 1.0
+                    },
+                    "quickBarSlot": -1,
+                    "simpleChildrenTypes": [
+                        "CombatKnife"
+                    ],
+                    "simpleChildrenUseDefaultAttributes": false,
+                    "complexChildrenTypes": []
+                }
+            ]
+        },
+        {
+            "slotName": "Eyewear",
+            "discreteItemSets": [
+                {
+                    "itemType": "NVGHeadstrap",
+                    "spawnWeight": 1,
+                    "attributes": {
+                        "healthMin": 1.0,
+                        "healthMax": 1.0,
+                        "quantityMin": 1.0,
+                        "quantityMax": 1.0
+                    },
+                    "quickBarSlot": -1,
+                    "simpleChildrenTypes": [],
+                    "simpleChildrenUseDefaultAttributes": false,
+                    "complexChildrenTypes": [
+                        {
+                            "itemType": "NVGoggles",
+                            "attributes": {
+                                "healthMin": 1.0,
+                                "healthMax": 1.0,
+                                "quantityMin": 1.0,
+                                "quantityMax": 1.0
+                            },
+                            "quickBarSlot": -1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "slotName": "Mask",
+            "discreteItemSets": [
+                {
+                    "itemType": "BalaclavaMask_White",
+                    "spawnWeight": 1,
+                    "attributes": {
+                        "healthMin": 1.0,
+                        "healthMax": 1.0,
+                        "quantityMin": 1.0,
+                        "quantityMax": 1.0
+                    },
+                    "quickBarSlot": -1,
+                    "simpleChildrenTypes": [],
+                    "simpleChildrenUseDefaultAttributes": false,
+                    "complexChildrenTypes": []
+                }
+            ]
+        },
+        {
+            "slotName": "Back",
+            "discreteItemSets": [
+                {
+                    "itemType": "CoyoteBag_Winter",
+                    "spawnWeight": 1,
+                    "attributes": {
+                        "healthMin": 1.0,
+                        "healthMax": 1.0,
+                        "quantityMin": 1.0,
+                        "quantityMax": 1.0
+                    },
+                    "quickBarSlot": -1,
+                    "simpleChildrenTypes": [
+                        "Mag_CZ75_15Rnd",
+                        "Mag_CZ75_15Rnd",
+                        "Mag_CZ75_15Rnd",
+                        "Mag_CZ75_15Rnd",
+                        "BandageDressing",
+                        "BandageDressing",
+                        "SalineBagIV",
+                        "SalineBagIV",
+                        "TetracyclineAntibiotics",
+                        "VitaminBottle"
+                    ],
+                    "simpleChildrenUseDefaultAttributes": false,
+                    "complexChildrenTypes": []
+                }
+            ]
+        },
+        {
+            "slotName": "Hips",
+            "discreteItemSets": [
+                {
+                    "itemType": "CivilianBelt",
+                    "spawnWeight": 1,
+                    "attributes": {
+                        "healthMin": 1.0,
+                        "healthMax": 1.0,
+                        "quantityMin": 1.0,
+                        "quantityMax": 1.0
+                    },
+                    "quickBarSlot": -1,
+                    "simpleChildrenTypes": [
+                        "Canteen"
+                    ],
+                    "simpleChildrenUseDefaultAttributes": false,
+                    "complexChildrenTypes": []
+                }
+            ]
+        }
+    ],
+    "discreteUnsortedItemSets": []
+}
